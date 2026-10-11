@@ -1,33 +1,31 @@
-Privacy Policy — Until
+# Privacy Policy — Until
 
-Effective date: October 11, 2026
+**Effective date:** October 11, 2026
 
-1. Introduction
+## 1. Introduction
 
-Until (“the App”) is a personal date and moment reminder application developed by Sanjay. The App helps users remember important dates, create personal moments, manage reminders, and keep track of meaningful events.
+Until ("the App") is a personal date and moment reminder application developed by Sanjay. The App helps users remember important dates, create personal moments, manage reminders, and keep track of meaningful events.
 
 This Privacy Policy explains what information the App handles, how that information is used and stored, and what choices you have regarding your information.
 
-Developer: Sanjay
-Contact email: "sanjusanjusanjay10@gmail.com" (mailto:sanjusanjusanjay10@gmail.com)
+- **Developer:** Sanjay
+- **Contact email:** [sanjusanjusanjay10@gmail.com](mailto:sanjusanjusanjay10@gmail.com)
 
-By using the App, you acknowledge this Privacy Policy.
-
-2. Information You Enter
+## 2. Information You Enter
 
 Depending on the features you use, the App may process the following information that you provide:
 
-- Moment information: Titles, descriptions, occasion types, dates, times, recurrence settings, and other details about birthdays, anniversaries, trips, appointments, and personal events.
-- Entity information: Names and other details you associate with people, places, or things.
-- Notes: Personal notes or descriptions you add to moments.
-- Photos: Images you choose to attach to moments, if photo functionality is available.
-- Reminder settings: Your selected reminder dates, times, and preferences.
-- App preferences: Settings such as theme preferences and other options available in the App.
-- Notification information: Reminder or notification history, if this feature is available in your version of the App.
+- **Moment information:** Titles, descriptions, occasion types, dates, times, recurrence settings, and other details about birthdays, anniversaries, trips, appointments, and personal events.
+- **Entity information:** Names and other details you associate with people, places, or things.
+- **Notes:** Personal notes or descriptions you add to moments.
+- **Photos:** Images you choose to attach to moments, if photo functionality is available.
+- **Reminder settings:** Your selected reminder dates, times, and preferences.
+- **App preferences:** Settings such as theme preferences and other options available in the App.
+- **Notification information:** Reminder or notification history, if this feature is available in your version of the App.
 
 Please avoid entering sensitive personal information unless it is necessary for your own use of the App.
 
-3. How Your Information Is Stored and Used
+## 3. How Your Information Is Stored and Used
 
 Until is designed to support offline-first use. Information you enter is intended to be stored locally on your device using the App's local database.
 
@@ -44,7 +42,7 @@ The App is not intended to require an online account or cloud synchronisation fo
 
 Locally stored information may be included in device backups or otherwise handled by your operating system, depending on your device settings. Local storage does not, by itself, guarantee encryption or prevent access by someone who can access your unlocked device.
 
-4. Photos and Media
+## 4. Photos and Media
 
 If the App allows you to attach photos to moments, you can select the images you want to use.
 
@@ -54,7 +52,7 @@ Selected photos may be stored locally or referenced by the App to display them a
 
 You can remove photos from moments where the App provides that functionality. Removing a photo from the App may not delete other copies saved elsewhere on your device or in a backup.
 
-5. Reminders and Notifications
+## 5. Reminders and Notifications
 
 The App may schedule local notifications to remind you about upcoming dates and events.
 
@@ -64,7 +62,7 @@ Notifications may appear on your device's lock screen or notification panel, dep
 
 You can manage notification permissions and visibility through your device settings. Disabling notifications may prevent some reminders from appearing.
 
-6. Sharing Information
+## 6. Sharing Information
 
 If the App provides sharing functionality, you may choose to share moment details or generated share cards through Android's sharing interface or another application.
 
@@ -74,7 +72,7 @@ Review the content before sharing it. Unless you intentionally include them, pri
 
 Once you share information outside the App, the receiving person or service may retain, copy, or further share it.
 
-7. Diagnostics and Bug Reports
+## 7. Diagnostics and Bug Reports
 
 If diagnostic or bug-report functionality is available, you may be able to generate and review diagnostic information to help investigate technical issues.
 
@@ -84,7 +82,7 @@ Diagnostic information should be shared only when you choose to submit or export
 
 Do not assume that diagnostic information is automatically anonymous. Its contents depend on the implementation and the information included in a report.
 
-8. Information Sharing and Third Parties
+## 8. Information Sharing and Third Parties
 
 The App is intended to keep your personal moments on your device for its core offline functionality.
 
@@ -94,7 +92,7 @@ Information may be shared when you explicitly use a sharing feature, when you ch
 
 The actual handling of information also depends on any third-party libraries, software development kits, or services included in the installed version of the App. If the App introduces analytics, advertising, cloud storage, crash-reporting services, or other third-party processing, this Privacy Policy should be updated to explain the relevant information handling.
 
-9. Analytics and Advertising
+## 9. Analytics and Advertising
 
 The App is intended to focus on personal date management and reminders.
 
@@ -102,19 +100,19 @@ This section does not guarantee that the published build contains no analytics, 
 
 If analytics or advertising services are introduced, this Privacy Policy and the App's Google Play Data safety information will be updated as applicable to describe the information collected and how it is used or shared.
 
-10. Permissions
+## 10. Permissions
 
 Depending on the features you use and the version installed, the App may request permissions or use Android system functionality for purposes such as:
 
-- Notifications: To deliver reminders about your saved moments.
-- Photos and media: To let you select photos to attach to moments, if supported.
-- Other permissions: To support additional features only when they are implemented and relevant.
+- **Notifications:** To deliver reminders about your saved moments.
+- **Photos and media:** To let you select photos to attach to moments, if supported.
+- **Other permissions:** To support additional features only when they are implemented and relevant.
 
 The App should request permissions when needed for the corresponding functionality. You can review or revoke permissions through your Android device settings. Revoking a permission may affect the related feature.
 
 Contacts and calendar access are not necessary for the core functionality described in this policy unless a future version explicitly introduces those integrations. If such integrations are added, this policy should be updated before or when the relevant functionality is released.
 
-11. Data Retention and Deletion
+## 11. Data Retention and Deletion
 
 Information stored locally in the App is generally intended to remain on your device until you delete it, clear the App's data, or uninstall the App, subject to Android's storage and backup behaviour.
 
@@ -126,7 +124,7 @@ If the App supports relationships between entities and moments, deleting an enti
 
 If a future version introduces user accounts or server-side storage, the App will provide appropriate information about retention and any applicable account or data-deletion process.
 
-12. Data Security
+## 12. Data Security
 
 The developer aims to handle information responsibly and avoid unnecessary collection or sharing.
 
@@ -136,7 +134,7 @@ Do not assume that all information is encrypted or protected by an additional ap
 
 You can help protect your information by securing your device with a screen lock, keeping Android and the App updated, and avoiding sharing private information unintentionally.
 
-13. Children's Privacy
+## 13. Children's Privacy
 
 Until is a general-purpose personal date and moment application and is not specifically designed to collect personal information from children.
 
@@ -144,7 +142,7 @@ The App should not be used to submit another person's sensitive information with
 
 If you believe that personal information has been handled inappropriately, please contact the developer using the email address below.
 
-14. Your Choices and Rights
+## 14. Your Choices and Rights
 
 You can manage the information you enter through the features available in the App.
 
@@ -161,7 +159,7 @@ Depending on applicable law, you may also have rights to request access to, corr
 
 To submit a privacy-related request, contact the developer using the details in Section 16.
 
-15. Changes to This Privacy Policy
+## 15. Changes to This Privacy Policy
 
 This Privacy Policy may be updated when the App's features, data practices, or applicable requirements change.
 
@@ -169,9 +167,9 @@ When an update is made, the effective date at the beginning of this document wil
 
 You should review this page periodically to understand the current privacy practices.
 
-16. Contact Us
+## 16. Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy or the privacy practices of Until, please contact:
 
-Developer Name: Sanjay
-Email: "sanjusanjusanjay10@gmail.com" (mailto:sanjusanjusanjay10@gmail.com)
+- **Developer Name:** Sanjay
+- **Email:** [sanjusanjusanjay10@gmail.com](mailto:sanjusanjusanjay10@gmail.com)
